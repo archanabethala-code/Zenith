@@ -1,0 +1,7 @@
+{
+  "name": "Zenith",
+  "description": "A sleek, high-performance appointment management system featuring AI-powered natural language scheduling, real-time analytics, and seamless light/dark mode support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
